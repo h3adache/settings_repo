@@ -1,4 +1,5 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -10,10 +11,44 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
+    <option name="PLACES_MAP$diff_impl">
+      <map>
+        <entry key="ChangesView">
+          <value>
+            <PlaceSettings>
+              <option name="EXPAND_BY_DEFAULT" value="false" />
+            </PlaceSettings>
+          </value>
+        </entry>
+        <entry key="CommitDialog">
+          <value>
+            <PlaceSettings>
+              <option name="EXPAND_BY_DEFAULT" value="false" />
+            </PlaceSettings>
+          </value>
+        </entry>
+        <entry key="Default">
+          <value>
+            <PlaceSettings />
+          </value>
+        </entry>
+        <entry key="TestsFiledAssertions">
+          <value>
+            <PlaceSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="a">
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
@@ -25,6 +60,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>

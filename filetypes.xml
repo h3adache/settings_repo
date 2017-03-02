@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="scaml" type="Haml" />
+      <mapping ext="imports" type="PLAIN_TEXT" />
       <mapping ext="scaml" type="HAML" />
-      <removed_mapping ext="haml" type="HAML" />
     </extensionMap>
   </component>
 </application>

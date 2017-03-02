@@ -1,0 +1,12 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="mercurial-ch-01:5002/scm/hg/compliance" value="tchen" />
+        <entry key="mercurial-ch-01:5002/scm/hg/infrastructure/forks/core-tchen" value="tchen" />
+        <entry key="mercurial-ch-01:5002/scm/hg/infrastructure/operations" value="tchen" />
+      </map>
+    </option>
+  </component>
+</application>

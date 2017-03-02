@@ -1,5 +1,11 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="556" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="48" />
   </component>
 </application>

@@ -1,0 +1,7 @@
+<templateSet group="Allston">
+  <template name="llogger" value="private static final com.allstontrading.lib.common.util.logging.Loggable log = com.allstontrading.lib.common.util.logging.LibraryLogger.getLoggable();" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
