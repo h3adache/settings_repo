@@ -1,8 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/beee9943_web-app_3_0.xsd" />
+    <resource url="http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/beee9943_web-app_3_0.xsd" />
     <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/.IntelliJIdea14/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
     <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
-    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/9b192256_xml.xsd" />
   </component>
 </application>
