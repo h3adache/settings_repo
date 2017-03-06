@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
@@ -61,16 +62,10 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="groovy_debugger">
         <configuration>
@@ -78,9 +73,8 @@
         </configuration>
       </debugger>
       <debugger id="javascript">
-        <configuration doNotStepIntoLibraryCode="false">
+        <configuration>
           <custom-object-presentation />
-          <stepping-filters-enabled>false</stepping-filters-enabled>
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">
