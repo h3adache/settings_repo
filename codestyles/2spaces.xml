@@ -31,6 +31,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -129,7 +132,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
